@@ -33,4 +33,5 @@ Chrdex.pm & Sqldex.pm - obsoleted by the cpan module Text::Tidx. Sqldex may not 
 ## Citing:
 
 Erik Aronesty (2011). ea-utils : "Command-line tools for processing biological sequencing data"; http://code.google.com/p/ea-utils
+
 Erik Aronesty (2013). TOBioiJ : "Comparison of Sequencing Utility Programs", DOI:10.2174/1875036201307010001
